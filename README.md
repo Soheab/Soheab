@@ -3,4 +3,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soheab&layout=compact&theme=tokyonight)
 
-[![Soheab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Soheab)](https://github.com/anuraghazra/github-readme-stats)
+[![Soheab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Soheab_)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,35 +1,51 @@
 <h1 align="center">Hi 👋, I'm Soheab</h1>
-<h3 align="center">A passionate Software Developer student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soheab&label=Profile%20views&color=0e75b6&style=flat" alt="soheab" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soheab" alt="soheab" /></a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-</p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soheab&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="soheab" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soheab&show_icons=true&locale=en&theme=synthwave" alt="soheab" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soheab&theme=synthwave" alt="soheab" />
+  Software developer in training who has been (trying) to program since 2017/18, focused on practical full‑stack work and steady iteration.
 </p>
 
+## 🚀 What I'm up to
+- 🔭 Exploring full‑stack projects with **Node.js**, **PostgreSQL**, and **React**.
+- 🛠️ Building fast release loops with **CI/CD**, containerized dev environments, and quality gates.
+- 📚 Sharpening fundamentals with algorithms, performance tuning, and hands‑on problem solving.
+- 🤖 Using AI-assisted workflows to research, prototype, and ship faster without sacrificing quality.
+
+## 🧰 Toolbox
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+## 🛠️ How I work
+- **VS Code + Dev Containers** keep environments consistent and disposable.
+- **GitHub Actions** runs tests and linting on every push for fast feedback.
+- **WakaTime** + **GitHub Readme Stats** help me track time, streaks, and language spread.
+
+## 🌟 Featured OSS
+- [**nextcord**](https://github.com/nextcord/nextcord): Contributing to a maintained Discord API wrapper with modern features.
+- [**pycord**](https://github.com/Pycord-Development/pycord): Collaborating on a popular Discord bot framework.
+- [**alexflipnote.py**](https://github.com/Soheab/alexflipnote.py): Async Python wrapper for the AlexFlipnote API.
+- [**vacefron.py**](https://github.com/Soheab/vacefron.py): Lightweight API client for VACEfron image generation.
+- [**discord-py-paginators**](https://github.com/Soheab/discord-py-paginators): Discord.py pagination utilities for clean embeds.
+- [**modal-paginator**](https://github.com/Soheab/modal-paginator): Modal-based paginator with navigation helpers.
+
+## 📈 Quick stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Soheab_&layout=compact&theme=synthwave" alt="wakatime"/> 
-  </a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=soheab&show_icons=true&theme=tokyonight&rank_icon=percentile&count_private=true" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=soheab&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheab&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=soheab&layout=compact&theme=tokyonight" alt="WakaTime" />
 </p>
+
+## 🤝 Connect
+- 💼 <a href="https://www.linkedin.com/in/soheab" target="_blank">LinkedIn</a>
+- 🌐 <a href="https://soheab.github.io" target="_blank">Portfolio</a>
+- 📝 <a href="https://soheab.hashnode.dev" target="_blank">Blog</a>

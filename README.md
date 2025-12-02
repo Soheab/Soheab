@@ -9,6 +9,7 @@
 - 🛠️ Learning how to ship faster with **CI/CD**, containerization, and automated quality checks.
 - 📚 Currently digging into algorithms and performance tuning.
 - 🎯 Building out **API-first** services and lightweight front-ends with **HTML/CSS**.
+- 🧭 Experimenting with **Discord** bots and chat integrations alongside API work.
 
 ## 🧰 Toolbox
 
@@ -26,6 +27,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -51,6 +53,5 @@
 </p>
 
 ## 🤝 Connect
-- 💼 <a href="https://www.linkedin.com/in/soheab" target="_blank">LinkedIn</a>
-- 🌐 <a href="https://soheab.github.io" target="_blank">Portfolio</a>
+- 🌐 <a href="https://siheab.com" target="_blank">Website</a>
 - 📝 <a href="https://soheab.hashnode.dev" target="_blank">Blog</a>

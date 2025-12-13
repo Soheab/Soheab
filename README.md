@@ -23,6 +23,7 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soheab&show_icons=true&theme=tokyonight&rank_icon=percentile&count_private=true" alt="GitHub stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soheab&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="soheab" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=soheab&show_icons=true&locale=en&theme=synthwave" alt="soheab" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soheab&theme=synthwave" alt="soheab" />

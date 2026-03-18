@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soheab&label=Profile%20views&color=0e75b6&style=flat" alt="soheab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soheab" alt="soheab" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=Soheab&theme=flat" alt="soheab" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

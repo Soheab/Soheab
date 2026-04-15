@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}_?layout=compact
+          options: username=${{ github.repository_owner }}_&layout=compact
           token: ${{ secrets.PAT }}
 
       - name: Commit cards

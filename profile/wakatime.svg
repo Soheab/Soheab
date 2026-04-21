@@ -658,14 +658,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 4,545 hrs 19 mins
+        Python - 4,545 hrs 24 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML - 102 hrs 16 mins
+        HTML - 102 hrs 17 mins
       </text>
     </g>
   
@@ -693,14 +693,14 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 70 hrs 31 mins
+        JSON - 70 hrs 32 mins
       </text>
     </g>
   
     <g transform="translate(25, 100)">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS - 65 hrs 39 mins
+        CSS - 65 hrs 40 mins
       </text>
     </g>
   
@@ -728,7 +728,7 @@
     <g transform="translate(25, 150)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 32 hrs 30 mins
+        Other - 32 hrs 34 mins
       </text>
     </g>
   
@@ -742,7 +742,7 @@
     <g transform="translate(25, 175)">
       <circle cx="5" cy="6" r="5" fill="#a52a22" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jinja - 15 hrs 43 mins
+        Jinja - 15 hrs 51 mins
       </text>
     </g>
   
@@ -770,7 +770,7 @@
     <g transform="translate(25, 225)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 10 hrs 59 mins
+        TypeScript - 11 hrs 3 mins
       </text>
     </g>
   
@@ -819,7 +819,7 @@
     <g transform="translate(230, 300)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Git - 2 hrs 27 mins
+        Git - 2 hrs 28 mins
       </text>
     </g>
   

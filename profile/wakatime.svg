@@ -658,7 +658,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 4,545 hrs 24 mins
+        Python - 4,545 hrs 35 mins
       </text>
     </g>
   
@@ -728,7 +728,7 @@
     <g transform="translate(25, 150)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 32 hrs 34 mins
+        Other - 32 hrs 36 mins
       </text>
     </g>
   
@@ -770,7 +770,7 @@
     <g transform="translate(25, 225)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 11 hrs 3 mins
+        TypeScript - 11 hrs 4 mins
       </text>
     </g>
   

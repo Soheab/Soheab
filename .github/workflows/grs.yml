@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&bg_color=30,0d1117,1a1b27,2d1b69&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.PAT }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=tokyonight&bg_color=30,0d1117,1a1b27,2d1b69&title_color=70a5fd&text_color=c9d1d9&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.PAT }}
 
@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats
+          options: username=readme-tools&repo=github-readme-stats&theme=tokyonight&bg_color=30,0d1117,1a1b27,2d1b69&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3&hide_border=true&show_owner=true
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.PAT }}
       
@@ -43,7 +43,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}_&layout=compact
+          options: username=${{ github.repository_owner }}_&layout=compact&theme=tokyonight&bg_color=30,0d1117,1a1b27,2d1b69&title_color=70a5fd&text_color=c9d1d9&hide_border=true&langs_count=8
+          path: profile/wakatime.svg
           token: ${{ secrets.PAT }}
 
       - name: Commit cards

@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="165"
-        viewBox="0 0 300 165"
+        height="190"
+        viewBox="0 0 300 190"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #2f80ed;
+            fill: #70a5fd;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -38,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #434d58;
+      fill: #c9d1d9;
     }
     .stagger {
       opacity: 0;
@@ -84,6 +84,16 @@
         </style>
 
         
+        <defs>
+          <linearGradient
+            id="gradient"
+            gradientTransform="rotate(30)"
+            gradientUnits="userSpaceOnUse"
+          >
+            <stop offset="0%" stop-color="#0d1117" />,<stop offset="50%" stop-color="#1a1b27" />,<stop offset="100%" stop-color="#2d1b69" />
+          </linearGradient>
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
@@ -93,8 +103,8 @@
           height="99%"
           stroke="#e4e2e2"
           width="299"
-          fill="#fffefe"
-          stroke-opacity="1"
+          fill="url(#gradient)"
+          stroke-opacity="0"
         />
 
         
@@ -130,7 +140,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="127.09"
+          width="125.91"
           height="8"
           fill="#3572A5"
         />
@@ -138,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="127.09"
+          x="125.91"
           y="0"
-          width="97.31"
+          width="96.36"
           height="8"
           fill="#f1e05a"
         />
@@ -148,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="224.4"
+          x="222.26999999999998"
           y="0"
-          width="15.42"
+          width="15.27"
           height="8"
           fill="#E22837"
         />
@@ -158,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="239.82"
+          x="237.54"
           y="0"
-          width="14.559999999999999"
+          width="14.52"
           height="8"
           fill="#e34c26"
         />
@@ -168,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.38"
+          x="242.06"
           y="0"
-          width="13.34"
+          width="13.31"
           height="8"
           fill="#663399"
         />
@@ -178,11 +188,31 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.72"
+          x="245.37"
           y="0"
-          width="12.27"
+          width="12.25"
           height="8"
           fill="#4F5D95"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="247.62"
+          y="0"
+          width="11.61"
+          height="8"
+          fill="#a52a22"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.23000000000002"
+          y="0"
+          width="10.77"
+          height="8"
+          fill="#3178c6"
         />
       
       
@@ -191,42 +221,56 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 50.84%
+        Python 50.36%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 38.92%
+        JavaScript 38.54%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#E22837" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        mcfunction 6.17%
+        mcfunction 6.11%
+      </text>
+    </g>
+  </g><g transform="translate(0, 75)">
+    <g class="stagger" style="animation-delay: 900ms">
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        HTML 1.81%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 1.82%
+        CSS 1.32%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 1.34%
+        PHP 0.90%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
+      <circle cx="5" cy="6" r="5" fill="#a52a22" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP 0.91%
+        Jinja 0.65%
+      </text>
+    </g>
+  </g><g transform="translate(0, 75)">
+    <g class="stagger" style="animation-delay: 900ms">
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        TypeScript 0.31%
       </text>
     </g>
   </g></g>

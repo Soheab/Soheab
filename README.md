@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Backend-Developer-1f6feb?style=flat" alt="Backend Developer" />
   <img src="https://img.shields.io/badge/API-Design-8957e5?style=flat" alt="API Design" />
   <img src="https://img.shields.io/badge/AI-Development-238636?style=flat" alt="AI Development" />
+  <a href="https://discordbadges.soheab.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-Badges-5865F2?style=flat&logo=discord&logoColor=white" alt="Explore Discord Badges" /></a>
   <a href="https://soheab.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Website-soheab.com-0d1117?style=flat" alt="Visit soheab.com" /></a>
 </p>
 
@@ -15,6 +16,15 @@ Software developer since 2017, focused on building reliable, maintainable APIs a
 
 <p align="left">
 Projects: <a href="https://github.com/Soheab" target="_blank" rel="noreferrer">GitHub</a> · <a href="https://soheab.com" target="_blank" rel="noreferrer">soheab.com</a>
+</p>
+
+<h3 align="center">Discord Activity</h3>
+<p align="center">
+  <img src="https://discordbadges.soheab.com/badge/status/150665783268212746" alt="Live Discord status" />
+  <img src="https://discordbadges.soheab.com/badge/music/150665783268212746" alt="Currently listening on Discord" />
+  <img src="https://discordbadges.soheab.com/badge/code/150665783268212746" alt="Current coding activity on Discord" />
+  <img src="https://discordbadges.soheab.com/badge/playing/150665783268212746" alt="Currently playing on Discord" />
+  <img src="https://discordbadges.soheab.com/badge/crunchyroll/150665783268212746" alt="Currently watching on Crunchyroll" />
 </p>
 
 <h3 align="center">Languages and Tools</h3>

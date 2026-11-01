@@ -1,47 +1,46 @@
-<h1 align="center">Hi 👋, I'm Soheab</h1>
-<h3 align="center">Junior Software Developer</h3>
+# Hey, I'm Soheab 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soheab&label=Profile%20views&color=0e75b6&style=flat" alt="soheab" />
-  <img src="https://img.shields.io/badge/Backend-Developer-1f6feb?style=flat" alt="Backend Developer" />
-  <img src="https://img.shields.io/badge/API-Design-8957e5?style=flat" alt="API Design" />
-  <img src="https://img.shields.io/badge/AI-Development-238636?style=flat" alt="AI Development" />
-  <a href="https://discordbadges.soheab.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-Badges-5865F2?style=flat&logo=discord&logoColor=white" alt="Explore Discord Badges" /></a>
-  <a href="https://soheab.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Website-soheab.com-0d1117?style=flat" alt="Visit soheab.com" /></a>
+Junior software developer. I've been coding since 2017, mostly in Python, PHP, and JavaScript.
+
+Most of what I build involves Discord in some way—using and abusing its API. I mostly work on APIs and integrations, with some open-source and AI tinkering on the side.
+
+[Website](https://soheab.com) · [Discord Badges](https://discordbadges.soheab.com/)
+
+## Discord Badges
+
+[Discord Badges](https://discordbadges.soheab.com/) turns Discord activity into badges you can put in a README. The ones below show my status, music, and whatever else I'm up to.
+
+## Around Discord
+
+<p>
+  <img src="https://discordbadges.soheab.com/badge/status/150665783268212746" alt="My Discord status" />
+  <img src="https://discordbadges.soheab.com/badge/music/150665783268212746" alt="What I'm listening to" />
+  <img src="https://discordbadges.soheab.com/badge/code/150665783268212746" alt="What I'm coding" />
+  <img src="https://discordbadges.soheab.com/badge/playing/150665783268212746" alt="What I'm playing" />
+  <img src="https://discordbadges.soheab.com/badge/crunchyroll/150665783268212746" alt="What I'm watching" />
 </p>
 
-<p align="left">
-I've been coding since 2017, mostly in Python, PHP, and JavaScript. Most of my projects involve Discord in some way—using and abusing its API. I also tinker with open-source projects and AI.
+## What I use
+
+Python, PHP, and JavaScript are my usual picks. I also work with MySQL, PostgreSQL, and SQLite.
+
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,postgres,sqlite,git,vscode&theme=dark&perline=10" alt="Python, PHP, JavaScript, HTML, CSS, MySQL, PostgreSQL, SQLite, Git, and VS Code" />
+
+## The numbers
+
+<p>
+  <img src="./profile/stats.svg" width="49%" alt="My GitHub stats" />
+  <img src="./profile/top-langs.svg" width="32%" alt="My most used languages" />
 </p>
 
-<p align="left">
-Projects: <a href="https://github.com/Soheab" target="_blank" rel="noreferrer">GitHub</a> · <a href="https://soheab.com" target="_blank" rel="noreferrer">soheab.com</a>
+<p>
+  <img src="./profile/wakatime.svg" width="49%" alt="My coding activity on Wakatime" />
 </p>
 
-<h3 align="center">Discord Activity</h3>
-<p align="center">
-  <img src="https://discordbadges.soheab.com/badge/status/150665783268212746" alt="Live Discord status" />
-  <img src="https://discordbadges.soheab.com/badge/music/150665783268212746" alt="Currently listening on Discord" />
-  <img src="https://discordbadges.soheab.com/badge/code/150665783268212746" alt="Current coding activity on Discord" />
-  <img src="https://discordbadges.soheab.com/badge/playing/150665783268212746" alt="Currently playing on Discord" />
-  <img src="https://discordbadges.soheab.com/badge/crunchyroll/150665783268212746" alt="Currently watching on Crunchyroll" />
-</p>
-
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,vscode,mysql,php,postgres,sqlite&theme=dark&perline=10" alt="Python, JavaScript, HTML, CSS, Git, VS Code, MySQL, PHP, PostgreSQL, and SQLite" />
-</p>
-
-<h3 align="center">Statistics</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
-    <img src="https://trophy.ryglcloud.net/?username=Soheab&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub trophies" />
+<details>
+  <summary>GitHub trophies</summary>
+  <br />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophy.ryglcloud.net/?username=Soheab&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="My GitHub trophies" />
   </a>
-</p>
-
-<p align="center">
-  <img src="./profile/stats.svg" width="49%" alt="GitHub stats" />
-  <img src="./profile/top-langs.svg" width="32%" alt="Top languages" />
-  <img src="./profile/wakatime.svg" width="49%" alt="Wakatime stats" />
-</p>
+</details>

@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-Software developer since 2017, focused on building reliable, maintainable APIs and integrations with Python, PHP, JavaScript, and databases. I mostly work on Discord-related projects—using and abusing its API—while also exploring open-source software and AI development.
+I've been coding since 2017, mostly in Python, PHP, and JavaScript. Most of my projects involve Discord in some way—using and abusing its API. I also tinker with open-source projects and AI.
 </p>
 
 <p align="left">

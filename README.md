@@ -11,6 +11,7 @@ Most of what I build involves Discord in some way, using and abusing its API. I 
 - [mijndak.py](https://github.com/Soheab/mijndak.py): An unofficial async Python client for DAK, the Dutch social housing platform.
 - [stagemarkt.py](https://github.com/Soheab/stagemarkt.py): A Python wrapper for Stagemarkt's undocumented APIs.
 - [ovpay.py](https://github.com/Soheab/ovpay.py): An unofficial async Python client for the OVpay API.
+- [amsterdam-nieuwbouwplannen.py](https://github.com/Soheab/amsterdam-nieuwbouwplannen.py): A typed async Python client for Amsterdam's new-build housing plans, powering [amsterdam-nieuwbouwplannen.soheab.com](https://amsterdam-nieuwbouwplannen.soheab.com).
 - [Commit Lens](https://github.com/Soheab/commit-lens): A Chrome extension with richer commit stats and custom commit-line templates.
 - [Discord Badges](https://discordbadges.soheab.com/): Discord activity badges for your README, like the ones below.
 
